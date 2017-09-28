@@ -47,6 +47,10 @@
                 width: 70vw;
                 padding: 25px;
             }
+            #about{
+                margin-top: -50px; 
+                text-align: center;            
+            }
             #home{
                 max-height: 500px;
             }
